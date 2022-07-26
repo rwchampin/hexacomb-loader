@@ -1,7 +1,3 @@
-# NOTE: This repo is no longer maintained
-
-Feel free to fork and do whatever. There is a dev branch that has an incomplete rewrite, but everything here is so old that even I don't get what I was thinking. Enjoy!
-
 # 3D hex tile system
 
 ![screenshot](hex-grid.jpg)
@@ -10,7 +6,7 @@ I never found a good (and free!) library for creating perfect hexagons and arran
 
 You can use the `Board` class with different graph types (hex and square), or you can make your own if you implement the interface.
 
-Please use this to make awesome hex-based web games. Or port the code and make awesome hex games there. Just make awesome hex games, ok?
+Im using this for a loader for a website, but at its core, this is a hexagon tile grid builder. Please use this to make awesome hex-based web games or some hex bullshit.
 
 ## Features
 
